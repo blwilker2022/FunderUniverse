@@ -8,7 +8,7 @@
     "text": "Ben Wilkerson"
   },
   "text": {
-    "more": "This network consists of 74 Funder Groups and their connections to more than 5000 member funders. Nodes that represent funder groups vary in size according to their modularity in the network (a measure indicating how strongly connected they are within their module), and all nodes are grouped by color according to the share of their members who are religious. ",
+    "more": "This network consists of 74 Funder Groups and their connections to more than 5000 member funders. Nodes that represent funder groups vary in size according to their modularity in the network (a measure indicating how strongly connected they are within their module), and all nodes are grouped by color according to the share of their members who are religious. A line in the diagram connecting a funder group and a member indicates that the member is a faith-based organization. ",
     "intro": "This interactive visualization plots the universe of philanthropic funder groups and their individual members.",
     "title": "Universe of Funder Group and Member Connections"
   },
