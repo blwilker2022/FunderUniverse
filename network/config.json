@@ -3,18 +3,18 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
+    "file": "https://oneill.indiana.edu/",
     "link": "",
     "text": "Ben Wilkerson"
   },
   "text": {
-    "more": "This network consists of 78 Funder Groups and their connections to more than 5000 member funders. ",
-    "intro": "The universe of philanthropic funder groups, and their member funders.",
-    "title": "Universe of Funder Group and Member Connextions"
+    "more": "This network consists of 78 Funder Groups and their connections to more than 5000 member funders. Nodes that represent funder groups vary in size according to their modularity in the network (a measure indicating how strongly connected they are within their module), and all nodes are grouped by color according to their betweenness centrality (a measure of their connectedness with every other node).",
+    "intro": "This interactive visualization plots the universe of philanthropic funder groups and their individual members.",
+    "title": "Universe of Funder Group and Member Connections"
   },
   "legend": {
     "edgeLabel": "Members (Funders) ",
-    "colorLabel": "Funder Groups",
+    "colorLabel": "Betweenness Centrality of Funder Groups",
     "nodeLabel": "Funder Groups"
   },
   "features": {
